@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CrudOperationWithFireBase3</string>
+    <string-array name="options">
+        <item>Default</item>
+        <item>Add</item>
+        <item>Contact</item>
+        <item>About Dev</item>
+    </string-array>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "619532083514",
+    "project_id": "crudoperation3",
+    "storage_bucket": "crudoperation3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619532083514:android:b2bdc0a5ee43c4a0217003",
+        "android_client_info": {
+          "package_name": "com.example.crudoperationwithfirebase3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619532083514-c1e8c9nolu393b2t78fir4ij7j0ht0h4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crudoperationwithfirebase3",
+            "certificate_hash": "eeb2333bb9b7b63cff443a4bece3524710b8edc5"
+          }
+        },
+        {
+          "client_id": "619532083514-v4bvli008kdmlm7l37sdvv3jtaglgbjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu_oGRQGfDqVG-OLoG2Y4Z5pKMphY3yiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619532083514-v4bvli008kdmlm7l37sdvv3jtaglgbjb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
